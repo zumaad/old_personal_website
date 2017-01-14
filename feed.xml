@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zumaad's independent projects</title>
+    <description>This site is meant for sharing my projects.
+</description>
+    <link>http://example.com/</link>
+    <atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 14 Jan 2017 13:43:50 -0600</pubDate>
+    <lastBuildDate>Sat, 14 Jan 2017 13:43:50 -0600</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Maze game</title>
+        <description>&lt;h1 id=&quot;maze-game&quot;&gt;Maze Game&lt;/h1&gt;
+
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;/assets/screenshot1.png&quot; /&gt; &lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;/assets/screenshot2.png&quot; /&gt; &lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;/assets/screenshot3.png&quot; /&gt; &lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;/assets/screenshot4.png&quot; /&gt; &lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;/assets/screenshot5.png&quot; /&gt; &lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/aZUJZS0n8pg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Thu, 10 Nov 2016 00:00:00 -0600</pubDate>
+        <link>http://example.com/2016/11/10/Maze-game.html</link>
+        <guid isPermaLink="true">http://example.com/2016/11/10/Maze-game.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Part Three-Wheelchair Demonstrations</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/3GACN5n-Wso&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;This video demonstrates wheel driven movement of the machine.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/nVNmCj12zdI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;This is a side view of wheel driven movement.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/kz22pCokRl0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;This is a top view of wheel driven movement. From this position the differential is visible and the system used to drive the wheels through chains is also visible.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Tlw0CWrjcc4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;This video is a side view of wheel driven movement. This angle puts an emphasis on the chain to wheel mechanism- you can see the gear system from the differntial to the large gear at the end of the boom like structure.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/TXX7NapiaDM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;This video showcases the climbing ability of the machine. As its wheels hit the “step”, the climbing mechanism engages due to power bieng diverted to it as the wheel mechanism is stopped. This is observable as the large gear at the end of the boom structure stops moving as soon as the wheels hit the step.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/tcKtEaBpt-E&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;This video is similar to the last except instead of climbing one step, the machine climbs three. It also shows the ability of the machine to reverse climb which is just climbing while moving backwards. This backwards or forwards motion is controlled by the on/off switch of the battery pack that is part of Meccano,the material used to build the machine. If the switch is turned completely to one side, the machine moves in a certain direction and if the switch is turned completely to the opposite side, the machine moves in the opposite direction.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 28 Aug 2016 17:16:39 -0500</pubDate>
+        <link>http://example.com/jekyll/update/2016/08/28/Wheelchair-demonsration.html</link>
+        <guid isPermaLink="true">http://example.com/jekyll/update/2016/08/28/Wheelchair-demonsration.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Part Two- Mechanisms and Motorization</title>
+        <description>&lt;h1 id=&quot;mechanisms-and-motorization&quot;&gt;Mechanisms and motorization&lt;/h1&gt;
+
+&lt;h4 id=&quot;basic-motorization&quot;&gt;basic motorization&lt;/h4&gt;
+
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;/assets/wheelchair18.jpg&quot; /&gt; &lt;/p&gt;
+
+&lt;p&gt;Now with the platform and legs out of the way, the next challenge is to actually motorize the wheelchair. The angle brackets- the metal strips with oval holes that are on the sides of the gray platform- allow mounting of some gears/ gear boxes to mesh with the gears of the legs.&lt;/p&gt;
+
+&lt;p&gt;To do the basic task of transferring power to the legs I chose a worm gear because it can mesh perpendicular to the spur gears (the yellow gears attached to the legs). In this case the properties of the worm gear are important simply for compatability purposes- due to the way it interacts with the spur gears, the rods which the worm gear is on can run along the sides of the platform allowing me to take advantage of the positioning of the angle brackets. It also allows for a more compact and smooth machine as worm gears are small and give a little wiggle room when it comes to meshing properly with other gears.&lt;/p&gt;
+
+&lt;p&gt;Making the decision to use worm gears was easy. The hard part was actually implementing them as several hours went by with me trying different combinations of heights of the worm gears and positioning (notice the angle bracket holes are oval which is different from the regular circluar holes- this allows me a little leeway in positioning); even though the worm gears and the oval holes of the angle brackets allow some leeway, the meshing still has to be accurate for the machine to run smoothly and the holes simply didn’t match up well enough for that by themselves.&lt;/p&gt;
+
+&lt;p&gt;Eventually, to make the worm and spur gear mesh adequately, I realized I had to use something that allowed me to avoid the problems of the hole spacing all together. The solution was to use universal joints. Universal joints allow two rods to be attached together with a joint in the middle that can move side to side while still alowing both rods to turn. This allowed me to slightly tweak the worm gear positioning and finally make it mesh smoothly with the spur gear.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/wheelchair20.jpg&quot; alt=&quot;1&quot; /&gt;     &lt;img src=&quot;/assets/wheelchair21.jpg&quot; alt=&quot;2&quot; /&gt;&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;/assets/wheelchair22.jpg&quot; /&gt; &lt;/p&gt;
+
+&lt;p&gt;The previous picture displays the benefits of the universal joint as the rods are bent to accomodate the meshing of the gears yet the rods can still turn smoothly.The universal joint also allows the gear box to be fixed to the platform on the regular holes because of the placement flexibility it gives. Another addition I made that allowed the gears to mesh properly are the combination of black collars and washers that prop up the fixture that holds the worm gears. For how simple the collar and washer combination looks, it took quite some time to get just right because of how little flexibility there is in the distance between the worm and spur gear-vertically speaking. For example, if i had used a thin washer instead of a thick one than the worm gear would mesh too tightly with the spur gear and cause unnecessary friction that would compound as more mechanisms were added.&lt;/p&gt;
+
+&lt;p&gt;After the successfull meshing of the gears, my next task was to mount the gear box so that the gears directly on the moter could provide movement to the worm gears which in turn would cause the legs to move. The gear box was ideal for this because it provides a neat,already built setup to fix gears- meaning I wouldn’t have to construct a fixture of my own to hold gears. The mounting of the gear box was easy as there were readiy accessable holes, thanks to the universal joint, that I could use. After mounting the gear box I attached a face gear- a gear that can mesh at a 90 degree angle with a spur gear- so that I could fix a rod to it and power the worm gear and the other end of this side of the machine. This was done simply by extending the rod all the way to the other end which had a similar structure.&lt;/p&gt;
+
+&lt;p&gt;At this point, after a little tweaking (loosening some screws a tiny bit), the motor could be turned on and the legs on one side of the machine would move. So, with motorization acheived on one side I had to find a way to transfer it the other side too unless I wanted my machine to simply hobble in circles.&lt;/p&gt;
+
+&lt;p&gt;The solution was quite simple and it got rid of another problem which was that the legs were spinning too quickly with too little power. Currently one side was being motorized by a 19 tooth spur gear driving a  55 tooth face gear. Given that the motor itself spins incredibly quick, far too quick to output a decent amount of power, the reduction of speed due to the current gear ratios was not enough.Put simply, gear ratios affect speed because a gear that is smaller than the gear it is driving has to rotate MORE than x times for the gear that it is driving to have rotated x times. Given the current numbers, which was a 19 tooth gear driving a 55 tooth gear, it is almost a 1/3 reduction in speed. This is because the 19 tooth gear has to spin almost 3 times for the 55 tooth gear to spin once- in other words  when the motor’s axle spins almost 3 times the axle which the 55 tooth face gear is connected to will have only spun once. Even with this 1/3 reduction in speed, the legs spun too quick. Additinally, when the speed is reduced, the torque increases and the legs can move with greater force and lift the platform more easily.&lt;/p&gt;
+
+&lt;p&gt;With that explanation out the way, the solution was to mount the motor in the middle of the platform with a 9 tooth spur gear (the amount of teeth doesn’t have to be this specefic, I put it to illustrate that I am trying to reduce speed and incease torque) that meshed with a 55 tooth face gear which in turn was connected to an axle that had a 19 tooth spur gear on each end. This axle with spur gears at both ends reached into the gear box shown in the previous picture and drove a 55 tooth face gear which ultimately drove the axles that the worm gear was on. This explanation in text is probably fairly convoluted because of the many interacting factors but what matters is that there is now an axle that drives both gear boxes which means that one motor can now drive the legs on both sides. Additonally, there are now two places where speed reductions-and thus torque increases- happen; one is in the gear boxes and the other is in the gear system which drives the axle that connects to the gear boxes. This was the product.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;/assets/wheelchair25.jpg&quot; /&gt; &lt;/p&gt;
+
+&lt;p&gt;to summarize: There is one motor that drives a gear sytem which reduces speed and increases torque which in turn drives two other gear systems(in the gear boxes)that reduce speed and increase torque which then drive the worm gear.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;/assets/wheelchair24.jpg&quot; /&gt; &lt;/p&gt;
+
+&lt;p&gt;This picture shows the gear box gear sytem and the connections to the axles which drive the worm gears. (the wheels on the bottom of the legs haven’t yet been motorized)&lt;/p&gt;
+
+&lt;p&gt;The following are just some additonal shots of the machine at the that stage.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;/assets/wheelchair26.jpg&quot; /&gt; &lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;/assets/wheelchair27.jpg&quot; /&gt; &lt;/p&gt;
+
+&lt;h4 id=&quot;advanced-mechanisms-differential&quot;&gt;Advanced mechanisms-Differential&lt;/h4&gt;
+
+&lt;p&gt;At this point in the building process basic motorization had been acheived. If the motor is turned on, the machine will move with its legs (NOT WHEELS YET) and even climb obstacles. However, this machine is not just a climbing machine; its supposed to be a wheelchair that can navigate/climb obstacles AND move around regularly on wheels. As such, the climbing part which is what we have been building so far is simply part of the overall mechanism and machine. With the basic climbing mechanism in place it was time to move on to powering the wheels- but as usual there was a catch, multiple actually.&lt;/p&gt;
+
+&lt;p&gt;The first of many problems in motorizing the wheels was a question about the machine itself. How was the machine going to know when to use its wheels and when to use its legs? I knew at this point that the wheels were going to be utilized for regular movement whereas the legs would only be used when climbing. But how would the machine differentiate given that it didn’t have more than one motor(meaning you can’t turn one motor on and the other off,etc) and , more importantly, no sensors of any sort that would signal the engagement of one mechanism and the disengagement of another.&lt;/p&gt;
+
+&lt;p&gt;The solution was to use a mechanism called a differntial. The differential is a rotating cage with an axle on either side of the “cage”. When the cage rotates, the axles on each side rotate, but when one of the axles on either side of the cage meets enough resistance, power will be given almost exclusively to the axle with the least resistance. The technicalities will be explained with help of pictures.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;/assets/wheelchair31.jpg&quot; /&gt; &lt;/p&gt;
+
+&lt;p&gt;This was the first version of the differential. The cage refered to is the metal perforated strips attached to the disk wheel on one side and a large face gear on the other side.On the inside of this cage are four gears. The two gears attached to the protruding axles are called face gears, the other two gears are called spur gears. What these gears do is allow free rotaton of the axles independent of each other meaning that if you grab and hold one axle the entire cage, thus the other axle, can still rotate.
+How this works is quite simple; When the whole cage rotates, both axles rotate, but when one axle meets sufficient resistance, the face gear that is on it doesn’t rotate- as the axle doesn’t- but the spur gears which are connected to the cage run on the stationary face gear just fine such that the cage can still rotate and since the cage can still rotate the other axle can rotate. As such, one axle can remain stationary and the other can get all the power from the rotating frame. The applications for the differential for this machine are probably already evident. One axle can be indirectly connected- through other gears/systems- to the wheel mechanism and the other axle can be indirectly connected to the climbing mechanism (the gear boxes that transfer power to the worm gears that drive the legs). Thus, when the wheels meet an obstacle and stop, the axle on the differential that they are directly connected to will remain stationary and only power will be transfered to the other axle which is indirectly connected to the climbing mechanism! There we have it, the crux of the machine and the most important mechanism, most other gears/systems to be seen on the machine are simply to connect the axles of the differential in someway to mechanisms that are to be powered.&lt;/p&gt;
+
+&lt;p&gt;At this point the differential was built and only implementation remained, however as usual, a obstacle was met. When the differntial was hoisted on the platform, it was simply too large to rotate as the sides of the cage hit the platform floor. The solution was to obviously somehow shrink the cage but it was easier said then done.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/wheelchair33.jpg&quot; alt=&quot;99&quot; /&gt;  &lt;img src=&quot;/assets/wheelchair34.jpg&quot; alt=&quot;100&quot; /&gt;&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;/assets/wheelchair35.jpg&quot; /&gt; &lt;/p&gt;
+
+&lt;p&gt;Everything can be seen in the pictures quite clearly- The only changes made was switching the protruding metal brackets that made up the cage and putting in their place slender rods that made the differential more compact. As such, the differential could now be put on the platform at a height where it could interact with a gear box system while still being able to rotate freely.&lt;/p&gt;
+
+&lt;h4 id=&quot;connecting-the-differential-to-other-mechanisms&quot;&gt;Connecting the differential to other mechanisms&lt;/h4&gt;
+
+&lt;p&gt;With room made for the differential to rotate, the connections from its axles to other mechanisms was the only task left until the machine could differentiate between mechanisms. The first connection made was that of the climbing mechanism (the gear boxes which were connected with an axle to the worm gears which drove the legs) to one of the axles of the differential. But before that could be done there were some changes to be made to the current design.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;/assets/wheelchair25.jpg&quot; /&gt; &lt;/p&gt;
+
+&lt;p&gt;As a reminder, the picture above is still the state of the machine at this point. The differential still hasn’t been attached to the platform and most importantly, as per the design shown above, there is no space for the differenntial.&lt;/p&gt;
+
+&lt;p&gt;The short term goal is to have the motor somehow run the differntial (spin the face gear thus rotating the whole frame) and have one of its axle’s indirectly connect to the climbing mechanism. Given that there is no space for the differential the even shorter term goal is to make space for it. The soultion to make space was to build vertically, not horizontally. As such, I decided that the differntial would be housed partly inside one of those nifty already made gear box structures and the motor would be on TOP of the gear box thus removing the space the motor took on the platform and also adding the differential.&lt;/p&gt;
+
+&lt;p&gt;Now with the differential in place, the goal of connecting one of its axles to the climbing mechanism had to be dealt with. This was actually fairly simple as this work was mostly done already- the picture above shows the motor’s gear meshing with a face gear which then drives the climbing mechanism. Well, given that this connection was already in place and the only changes that were made to the state of the machine shown in the pictures were that the space taken up by the motor was replaced by a gear box and the motor was hoisted on the gear box allowing it to drive the differential placed somewhat inside, all I had to do was find a way for the differential to drive that axle in the middle. Because the motor was moved and could no longer interact with the face gear on that axle in the middle of the platform, I decided to take the face gear off and since the motor now drove the differential, I had to find a way for the differential to drive that axle in the middle of the platform. All that had to be done was attach a spur gear to one of the axles of the differential and make it mesh with another spur gear I placed on the axle in the middle of the platform. I decided to attach a large spur gear right before the smaller spur gear already on the ends of the axle ( middle of the platform axle) such that it would be able to mesh with the spur gear on the end of the differential axle. At this point if the motor was turned on, the frame of the differential would spin causing the axles to spin which would cause the middle axle to spin as a spur gear on it meshed with a gear on one the axles of the differntial. Thus, the differential was finally connected to the climbing mechanism.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;/assets/wheelchair47.jpg&quot; /&gt; &lt;/p&gt;
+
+&lt;p&gt;As can be seen, the motor is on the gear box and somewhat inside is the differential( yes it does extend quite a bit outside).&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;/assets/wheelchair48.jpg&quot; /&gt; &lt;/p&gt;
+
+&lt;p&gt;This is a view from the other side. The axle that can be seen INSIDE the gear box is one of the axles on the differential. As such, the small spur gear(left corner) is on that axle and it meshes with the larger spur gear right next to it. The gear seen inside the gear box is the face gear on the differential’s frame. As such, when the motor is turned on, the face gear is rotated and the frame rotates which in turn rotates the small spur gear which then causes the middle axle to rotate thus powering the climbing mechnanism.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;/assets/wheelchair52.jpg&quot; /&gt; &lt;/p&gt;
+
+&lt;h4 id=&quot;motorization-of-the-wheels-front-wheels&quot;&gt;Motorization of the wheels (front wheels)&lt;/h4&gt;
+
+&lt;p&gt;The reason only the front wheels are motirized is because they are closer to the differential/motor than the back wheels and only 2-4 wheels are needed to actually propel the machine forward such that powering the back wheels would be unneccesary.&lt;/p&gt;
+
+&lt;p&gt;At this point the climbing mechanism has been put in place, the differential is in place and working, and the climbing mechanism is connecected to the differential. The only task left is motorizing the wheels-the front wheels- and connecting that mechanism to the differential. However, the wheels are all the way at the bottom of the legs of the machine, a far distance from the motor which is the source of power for the machine. As such,it won’t be a simple task.&lt;/p&gt;
+
+&lt;p&gt;Given that that the wheels are a far distance from the motors and not even located on the platform of the machine, simple gear systems were not my first choice as adding the many gears required to bridge the distance would add a lot of friction. I decided instead to use something that distance didn’t pose an obstacle to. This gave me two options: Using a pulley system or a chain system. Chains, to me atleast, are much cooler than pulleys so I decided to use them, but unfortunately I had a very limited amount of chains such that I ultimately had to use a combination of pulley’s and chains.&lt;/p&gt;
+
+&lt;p&gt;Now, Having decided to use chains/pulley to motorize the wheels, I had a general idea of the mechanism: There would be a sprocket(gear that holds chains)/pulley attached to a axle which would rotate and,through the chains/bands on the pulleys, transfer power to a sprocket/pulley on the axles of wheels which would the cause the wheels to rotate. But, this was a very basic idea and due to the design of the machine, had various problems associated with it. Recall that the machine, more or less, still looked like this:&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;/assets/wheelchair26.jpg&quot; /&gt; &lt;/p&gt;
+
+&lt;p&gt;So there were several problems with my “general idea”: There were no axles on the wheels,even if there were axles on the wheels I wanted to able to run atleast four wheels and how would I be able to do that with the axle/sprocket/chain given that the wheels weren’t alligned, and the wheels moved up and down meaning if I used a chain/band there would be slack in it as the wheels moved up which would cause disalignment and simply wouldn’t allow the wheels to spin. Thats quite a bit of problems but tackling them individually and then making changes and more changes usually does the trick.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;the reason for wanting to run four wheels wasn’t a preference; it was a necessity as only two wheels running would mean that once the wheels hit a obstacle and the climbing mechanism kicked in- because now there was less resistance on the climbing mechanism- and the wheels were raised in the air-as they are attached to the legs-the wheels would spin uselessly in the air whil nothing else moved. The reason this would happen is because as soon as the wheels that are powered are cleared of the obstacle there is less resistance on that mechanism,as the powered wheels are no longer stopped by the obstacle, and the powered wheels would rotate in the air and they wouldn’t be put down as the climbing mechanism has more natural resistance than the powered wheels’ mechanism. However, with four wheels one pair would always be on the ground and as the wheels in the air would rotate, given that they would somehow be connected to the pair of wheels on the ground as was my goal, the pair on the ground would rotate too thus propelling the machine forward until the pair of wheels on the ground hit the obstacle thereby causing the climbing mechanism to kick in (because of less resistance) and the wheels previosly in the air would be put down and the machine has now navigated the obstacle.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The first step in accomplishing motirization of wheels was to create some sort of structure that the chains/bands could act on. Also, because I had a very limited amount of chain I wanted to only have to transfer power to one place with the chain so that the least amount of chain could be used ( I have a lot of bands- which are what pulleys use- but they simply don’t look as cool as chains and functionally they are worse as pulleys are very susceptible to slipping). This “structure” is simply an axle that connects the two inner front wheels. The reason the axle connects only the inner front wheels is because the outer wheels obviously arent aligned witht the inner wheels.&lt;/p&gt;
+
+&lt;p&gt;Now with an axle connecting the two inner wheels of the front, I had to power that axle and bam, two front wheels would be able to move. But, as stated above in the explanation labeled 1, powering only two front wheels isn’t enough. Nonetheless, powering two wheels is the first step and from there, with connections somehow, the other two wheels should be powered.&lt;/p&gt;
+
+&lt;p&gt;However, before a sprocket/pulley system could be made, there had to be some connection to the differential. This connection would be quite simple and very similar to the connection made to from the differential to the climbing machine. On the unused side of the differential (the other side was being used to power the climbing mechanism) there would be a spur gear attached. This spur gear would ultimately drive the axle which the sprocket/pulley was on such that when the pulley/chain system met adequate resistance( the wheels hitting an obstacle) the system would jam and the differential wouldn’t be able to spin that spur gear and power would instead go almost solely to the climbing mechanism (i am reiterating the point of the differntial here). This is how the machine looked after that structure was created (top view):&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;/assets/Wheelchair53.jpg&quot; /&gt; &lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;/assets/Wheelchair54.jpg&quot; /&gt; &lt;/p&gt;
+
+&lt;p&gt;In the middle of the first picture the differential is visible and attached on one of the axles of the differential (there is only one visisble in this picture) there is the spur gear prevously mentioned. This spur gear meshes with a larger spur gear that is on a axle attached to yet another spur gear which in turn meshes with another spur gear which finally drives the axle the pulley is on (the metal wheel with the black band on it). The reason for all these spur gears meshing with each other instead of just one meshing with the first spur gear is that I wanted to get the pulley to be stationed in the middle of the platform, not off to the side where it would obstruct the legs. Given that the spur gear on the diffential is relatively close to the legs, a mechanism extending from it would interfere with the legs. As such, the additonal gears were needed to position the pulley better. The second picture is the same- just slightly closer up.&lt;/p&gt;
+
+&lt;p&gt;Now with the structure connecting a potential pulley/sprocket mechanism in place, the mechanism had to be built. The basic idea was that there would be a band/chain going from a pulley/sprocket on the platform to the axle connecting two inner fron wheels at the bottom of the machine. The structture just built enables me to do that but the problem is that a chain/band can’t be simply extended from a pulley/sprocket on the platform to the pulley/sprocket on the axle because the axle will be moving up and down as the legs move up and down- causing there to be slack in the chain/band. As such, I had to build a structure that mitigates the problem caused by the moving legs/axle issue.&lt;/p&gt;
+
+&lt;p&gt;The solution was to create a structure that always kept the sprocket/pulleys at fixed distances. This would ensure that the chains/bands would always remain taut and would not slack like they would if their endpoints were not at fixed points. This structure was quite simple: I decided that extending perforated strips from the inner wheels’ axle- where one endpoint of the chain/band would be (the pulley/sprocket)- and  extending perforated strips from the axle on the platform (the axle with the other pulley/sprocket on it) with a pulley/sprocket connecting those perforated strips, and transfering power from the platform axle and the wheel axle, would do the job. This would require four sprockets/pulley- two of each. I would have preferred to use only sprockets but because my chain supply was low, I had to use pulleys. As such, I decided that on the platform there would be a pulley- in the structure connecting to the differential I had built earlier- and on the end of the perforated strip that extended from the platform pulley’s axle there would be another pulley. These pulleys would be able to drive each other as a band would be looped around them. For simplicity’s sake the platform pulley will be labeled pulley 1. Pulley 2 will be the pulley that is driven by pulley 1. On the axle that pulley 2 is on there are the perforated strips that extend downward to the inner wheels’ axle. Additionally, on pulley 2’s axle there is a sprocket (sprocket 1) that has a chain looped around it. This chain also loops around the sprocket (sprocket 2) on the inner wheel’s axle.&lt;/p&gt;
+
+&lt;p&gt;To summarize, pulley 1 is rotated which caused pulley 2 to rotate. Since sprocket 1 is on the same axle as pulley 2, spocket 1 also rotates. Since sprocket 1 has a chain that loops around sprocket 2, as sprocket 1 rotates so does sprocket 2. Given that sprocket 2 is connected to the inner wheels’ axle, the axle spins as sprocket 2 rotates. As such, the movement of pulley 1 causes the movement of the two inner wheels.&lt;/p&gt;
+
+&lt;p&gt;These are pictures of the mechanism:&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;/assets/wheelchair55.jpg&quot; /&gt; &lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;/assets/wheelchair56.jpg&quot; /&gt; &lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;/assets/wheelchair57.jpg&quot; /&gt; &lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;/assets/wheelchair58.jpg&quot; /&gt; &lt;/p&gt;
+
+&lt;p&gt;At this point the motor could be turned on and the machine would move forward and if its wheels hit an obstacle they would raise due to the climbing mechanism kicking in. However, only two wheels were powered and atleast four needed to powered (refer to explanation 1). As such, a way to make the outer wheels rotate as the inners wheels rotated had to be found. Since the legs were not aligned and moved, a mechanism had to be found which didn’t need the wheels to be aligned or stationary.&lt;/p&gt;
+
+&lt;p&gt;Since pulleys and sprockets are out of the equation- because they are too large to fit in the space between the wheels- and because the legs moved in a very convenient circular fashion, gears immediately came to my mind. Specifically, gears that moved around while meshing with each other. My idea was roughly that there would be a gear on the axles of both inner wheels and outer wheels and that those gears would somehow have to mesh, allowing the inner wheel to drive the outer wheel. Now getting the disjointed gears to mesh was the “tricky” part. However there was enough space for me to fit another gear in between the gears on the axles. Thus, with a gear on the inner wheel’s axle, a gear on the outer wheel’s axle, and a gear in between them, as one wheel rotated the other would too due to the meshing gears. Furthermore, as the wheels moved up and down due to the climbing mechanism the gears could still spin just fine as they would always be at a fixed distance from each other- the wheels, though disjointed, are always at a fixed distance from each other. Here is the system of gears that was used to accomplish the final step of motorizing the wheels:&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;/assets/Wheelchair59.jpg&quot; /&gt; &lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;/assets/Wheelchair60.jpg&quot; /&gt; &lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;/assets/Wheelchair61.jpg&quot; /&gt; &lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;/assets/Wheelchair62.jpg&quot; /&gt; &lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;/assets/Wheelchair63.jpg&quot; /&gt; &lt;/p&gt;
+
+&lt;p&gt;With this mechanism finished, the machine is fully operational and the building has concluded.&lt;/p&gt;
+
+&lt;p&gt;However, after testing it a couple of times, the pulley mechnanism slipped a lot. The solution to this was fairly simple, I replaced the pulleys with a gear system that extended from the platfrom down to the axle of the sprocket that drove the sprocket on the wheel’s shared axle. The new mechnaism is viewable in the videos posted in the section titled “Demonstrations”.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 26 Aug 2016 00:00:00 -0500</pubDate>
+        <link>http://example.com/2016/08/26/part-two.html</link>
+        <guid isPermaLink="true">http://example.com/2016/08/26/part-two.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Part One- Legs and Platform Design</title>
+        <description>&lt;h1 id=&quot;purpose&quot;&gt;Purpose&lt;/h1&gt;
+
+&lt;p&gt;Most mechanized wheelchairs available on the market capable of navigating stairs, or in general objects taller than their front wheels, do so using larger wheels along with stabalizing mechanisms to insure the wheelchair doesn’t topple. In creating this prototype I wanted to make a wheelchair that didn’t rely on wheels or advanced stabalizing mechanisms to navigate obstacles/stairs but instead used legs which also negates the need for a stablazing mechanism. Additionally, I wanted to make the prototype not use any sensors thus relying on mechanisms such as differentials to tell it when to engage its legs for climbing and when to use its wheels.&lt;/p&gt;
+
+&lt;h1 id=&quot;building-and-brainstorming-process&quot;&gt;Building and Brainstorming process&lt;/h1&gt;
+
+&lt;h4 id=&quot;early-brainstorming--the-legs&quot;&gt;Early brainstorming- The legs&lt;/h4&gt;
+&lt;p&gt;At the beginning of this process I had no concrete idea of the mechanism or design of the wheelchair, just the idea that the wheelchair should be able to move around using wheels and climb obstacles using some kind of leg type movement- even that was conceptually fuzzy.&lt;/p&gt;
+
+&lt;p&gt;I set out thinking about how legs could be attached to some platform and made to move in such a way that they would produce a walking and climbing motion.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/Wheelchair1.jpg&quot; alt=&quot;Brainstorming the mechanisms&quot; /&gt; &lt;img src=&quot;/assets/Wheelchair3.jpeg&quot; alt=&quot;same&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This was the result. It is simply two perforated strips attached to gears on one side and a wheel disk on the other side. As the gears/disks rotate, the legs (strips) simulate movement. The convenient placing of the gears also allow for worm gears to drive the legs.&lt;/p&gt;
+
+&lt;p&gt;At this point I decided that to insure stabality, the wheelchair would use 4 of such leg mechanisms. However, the wheelchair would be far too clumsy, large and heavy because of the size of the current legs. So I used the same principle but shrunk it down to this.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;/assets/Wheelchair4.jpeg&quot; /&gt; &lt;/p&gt;
+
+&lt;h4 id=&quot;the-legs-and-platform&quot;&gt;The legs and platform&lt;/h4&gt;
+
+&lt;p&gt;Now that the legs were shrunk down I actually had to fix them on a platform somehow.I thought this would be a simple task but it was made complicated by having to attach the legs on two points rather than one and after much experimenting and rebuilding this was the result&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/Wheelchair5.jpeg&quot; alt=&quot;a&quot; /&gt;  &lt;img src=&quot;/assets/Wheelchair9.jpeg&quot; alt=&quot;b&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This design was sufficient in holding the legs but its flaw was the assymetry it caused- one leg is tilted in the picture. Nonetheless, the building continued.&lt;/p&gt;
+
+&lt;p&gt;By then a general shape of a machine that could be motorized to walk and possibly have a platform to sit on had taken hold. One would think this was the part where adding mechanisms would begin and indeed it was BUT as usual there was a problem. Basically, all I had to do was mount some gear on the platform that could mesh with the gears attached to the legss. But because of the assymetry of the design and the spacing of the holes in the building materials, this was MUCH harder than anticipated. Eventually after hours of fruitlessly trying different methods to mount gears at different heights/positions i decided to tackle the assymetry problem. Off to the platform design I went again. This time, I decied to keep it more simple and as compact as possible and the result was much cleaner and, most importantly, symmetrical!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/wheelchair13.jpg&quot; alt=&quot;c&quot; /&gt;   &lt;img src=&quot;/assets/wheelchair14.jpg&quot; alt=&quot;d&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/wheelchair15.jpg&quot; alt=&quot;c&quot; /&gt; &lt;img src=&quot;/assets/wheelchair17(1).jpg&quot; alt=&quot;d&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This picture shows my workspace along with some fruitless attempts at mounting gear boxes(in blue) on the platform before I tackled the assymetry problem.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;/assets/wheelchair19.jpg&quot; /&gt; &lt;/p&gt;
+
+&lt;p&gt;At this point, with the addition of the angle brackets- which are visible attached to the side of the platform- the basic platform is done and now the mechanisms can be created and implemented. A lot of the frustrations and hours gone into the tiny tweaks in designing the platform and legs such that gears and gear systems could mesh and interact with it effeciently have been glossed over. Even though the design looks fairly simple, even at this stage there was a lot of trial and error as evidenced by the lonely gear box put aside after having been incompatible with the orignal design. In fact, most of the time spent building this machine was dissablembling various design and re-assembling them slightly better and so on- this will be a recurring theme throughout this process.&lt;/p&gt;
+
+&lt;p&gt;Part one-Legs and platform is concluded.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 24 Aug 2016 17:16:39 -0500</pubDate>
+        <link>http://example.com/jekyll/update/2016/08/24/part-one.html</link>
+        <guid isPermaLink="true">http://example.com/jekyll/update/2016/08/24/part-one.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
