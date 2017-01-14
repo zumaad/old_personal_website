@@ -64,11 +64,227 @@
   <div class="post-content" itemprop="articleBody">
     <h1 id="maze-game">Maze Game</h1>
 
-<p align="center"> <img src="/assets/screenshot1.png" /> </p>
-<p align="center"> <img src="/assets/screenshot2.png" /> </p>
-<p align="center"> <img src="/assets/screenshot3.png" /> </p>
-<p align="center"> <img src="/assets/screenshot4.png" /> </p>
-<p align="center"> <img src="/assets/screenshot5.png" /> </p>
+<div class="highlighter-rouge"><pre class="highlight"><code>#importing modules
+import pygame, sys
+from pygame.locals import *
+import time 
+pygame.init()
+
+#setting up clock
+FPS=15
+clock=pygame.time.Clock()
+
+#setting up window frame
+display = pygame.display.set_mode((560, 550))
+pygame.display.set_caption('maze game')
+
+
+
+
+
+
+
+#loading all images(background,walls,meteors,and spaceball)
+
+
+
+background=pygame.image.load('Space.jpg')
+backgroundx=0
+backgroundy=0
+wall1=pygame.image.load('Brick.png')
+wall2=pygame.image.load('Brick.png')                          
+wall3=pygame.image.load('Bslant.png')
+wall4=pygame.image.load('Bslant.png')
+wall5=pygame.image.load('Brick.png')
+wall6=pygame.image.load('Brick.png')
+wall7=pygame.image.load('Bslant.png')
+wall8=pygame.image.load('Brick.png')
+wall9=pygame.image.load('Brick.png')
+winpic=pygame.image.load('WIN.png')
+
+
+#assigning necessary variables for later use
+wall1x,wall1y=55,300
+wall2x,wall2y=55,150
+wall3x,wall3y=55,150
+wall4x,wall4y=165,40
+wall5x,wall5y=160,300
+wall6x,wall6y=305,150
+wall7x,wall7y=305,460
+wall8x,wall8y=415,210
+wall9x,wall9y=415,0
+width=48
+spaceballwidth=49
+
+
+
+#setting up large meteor
+meteor=pygame.image.load('meteor.png')
+meteorx=0
+meteory=0
+
+#setting up smaller meteor
+meteor2=pygame.image.load('smallmeteor.png')
+meteor2x=80
+meteor2y=230
+
+#setting up spaceball
+spaceball=pygame.image.load('spaceball.png')
+spaceballx=110
+spacebally=500
+
+#defining function for collision detection for meteor2
+def meteor2collision(meteor2x,meteor2y,spaceballx,spacebally):
+       global absydiff,absxdiff
+       differencex=meteor2x-spaceballx
+       absxdiff=abs(differencex)
+       differencey=meteor2y-spacebally
+       absydiff=abs(differencey)
+
+#defining function for collision detection for large meteor
+def meteorcollision(meteorx,meteory,spaceballx,spacebally):
+       global absdiffiny,absdiffinx
+       differenceinx=meteorx-spaceballx
+       absdiffinx=abs(differenceinx)
+       differenceiny=meteory-spacebally
+       absdiffiny=abs(differenceiny)
+
+
+
+while True: # main game loop
+
+#displaying walls,meteors, and the spaceball
+       display.blit(background,(backgroundx,backgroundy))
+       display.blit(meteor,(meteorx,meteory))
+       display.blit(meteor2,(meteor2x,meteor2y))
+       display.blit(wall1,(wall1x,wall1y))
+       display.blit(wall2,(wall2x,wall2y))
+       display.blit(wall3,(wall3x,wall3y))
+       display.blit(wall4,(wall4x,wall4y))
+       display.blit(wall5,(wall5x,wall5y))
+       display.blit(wall6,(wall6x,wall6y))
+       display.blit(wall7,(wall7x,wall7y))
+       display.blit(wall8,(wall8x,wall8y))
+       display.blit(wall9,(wall9x,wall9y))
+       display.blit(spaceball,(spaceballx,spacebally))
+
+
+#setting up large meteor movement
+       if meteory&gt;=70:
+          meteor_direction = 'up'
+       elif meteory&lt;=0:
+          meteor_direction = 'down'
+       if meteor_direction == 'down':
+          meteory+=2
+       else:
+          meteory-=2
+    
+
+
+
+#setting up small meteor movement
+       if meteor2x&lt;=80:
+          direction='right'
+       if meteor2x&gt;=250:
+          direction='left'
+       if direction=='right':
+          meteor2x+=2
+       if direction=='left':
+          meteor2x-=2
+
+
+
+
+#collision detection for walls
+
+#block 1 and 2 shared section
+       if wall1x+width&gt;=spaceballx&gt;=wall1x-spaceballwidth and spacebally&gt;=wall3y-spaceballwidth:
+          print('collision with combined wall 1 and 2')
+          spaceballx,spacebally=110,500
+#block 3 section
+       if wall3y+width&gt;=spacebally&gt;=wall3y-spaceballwidth and wall6x+width&gt;=spaceballx&gt;=wall3x-spaceballwidth:
+          print('collision with wall 3')
+          spaceballx,spacebally=110,500
+         
+#block 4 section(165,40)
+       if wall4x-spaceballwidth&lt;=spaceballx&lt;=wall9x and wall4y+width&gt;=spacebally:
+          print('collision with wall 4')
+          spaceballx,spacebally=110,500
+
+#block 5 section
+       if wall5x-spaceballwidth&lt;=spaceballx&lt;=wall5x+width and wall5y-spaceballwidth&lt;=spacebally:
+          print('collision with wall 5')
+          spaceballx,spacebally=110,500
+     
+#block 6 section
+       if wall6x-spaceballwidth&lt;=spaceballx&lt;=wall6x+width and wall7y-60&gt;=spacebally&gt;=wall6y-spaceballwidth:
+          print('collision with wall 6')
+          spaceballx,spacebally=110,500
+
+#block 7 section
+       if wall7y-spaceballwidth&lt;=spacebally and wall7x-spaceballwidth&lt;spaceballx:
+          print('collision with wall 7')
+          spaceballx,spacebally=110,500
+
+#block 8 and 9 shared section
+       if spaceballx&gt;=wall8x-spaceballwidth:
+          print('collision with combined wall 8 and 9')
+          spaceballx,spacebally=110,500
+
+
+
+#collision detection for meteors
+
+       #meteor2
+       meteor2collision(meteor2x,meteor2y,spaceballx,spacebally)
+       if meteor2x&lt;=spaceballx:
+          if absydiff&lt;=30 and absxdiff&lt;=40:
+             print('collision with meteor 2 aproaching from left')
+             spaceballx,spacebally=110,500
+       if meteor2x&gt;=spaceballx:
+          if absydiff&lt;=30 and absxdiff&lt;=20:
+             print('collision with meteor 2 aproaching from right')
+             spaceballx,spacebally=110,500
+
+       #meteor1
+       meteorcollision(meteorx,meteory,spaceballx,spacebally)
+       if absdiffiny&lt;=70 and absdiffinx&lt;=90:
+          print('collision with meteor')
+          spaceballx,spacebally=110,500
+
+
+
+#if end is reached
+       if 0&lt;=spaceballx&lt;=wall1x-spaceballwidth and 550&gt;=spacebally&gt;=500:
+          display.blit(winpic,(0,0))
+    
+    
+    
+    
+
+
+
+   #EVENTS
+
+       for event in pygame.event.get(): #if user clicks 'x' on the top right of the window, the game quits.
+          if event.type == QUIT:
+             pygame.quit()
+             sys.exit()
+    
+          if event.type==KEYDOWN:#setting up events for each arrow key
+             if event.key==K_LEFT:
+                spaceballx-=10
+             if event.key==K_RIGHT:
+                spaceballx+=10
+             if event.key==K_UP:
+                spacebally-=10
+             if event.key==K_DOWN:
+                spacebally+=10
+        
+       pygame.display.update()
+       clock.tick(FPS)
+</code></pre>
+</div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aZUJZS0n8pg" frameborder="0" allowfullscreen=""></iframe>
 
